@@ -1,0 +1,16 @@
+# Large generated files
+app.zip
+error_log
+*.log
+success.log
+
+# DataTables vendor library (large - use CDN or download separately)
+# DataTables/
+
+# PHP IDE files
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db

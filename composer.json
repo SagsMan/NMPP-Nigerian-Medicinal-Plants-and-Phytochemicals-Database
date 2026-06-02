@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Software\\": "app/"
+        }
+    },
+
+    "require": {
+        "simple-validator/simple-validator": "1.0.*",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}

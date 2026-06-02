@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "nmppdb.com.ng",
+  "port": 465,
+  "username": "info@nmppdb.com.ng",
+  "password": "TeamWork@12",
+  "recipientEmail": "info@nmppdb.com.ng"
+}
